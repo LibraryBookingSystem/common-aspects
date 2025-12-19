@@ -5,4 +5,5 @@ com/library/common/security/JwtUtil.class
 com/library/common/security/aspect/BaseAuthorizationAspect.class
 com/library/common/aspect/LoggingAspect.class
 com/library/common/exception/ForbiddenException.class
+com/library/common/aspect/AuditLoggingAspect.class
 com/library/common/security/BaseJwtAuthenticationFilter.class
