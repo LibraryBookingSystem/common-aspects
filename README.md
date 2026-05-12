@@ -1,6 +1,6 @@
 # Library Common Aspects
 
-Shared AOP aspects, security components, and exceptions for Library System microservices.
+Shared library for the [Library Booking System](https://github.com/LibraryBookingSystem/Documentation): AOP aspects, security components, and exceptions for microservices.
 
 ## Quick Start (Docker)
 
